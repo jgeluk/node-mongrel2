@@ -1,8 +1,8 @@
 {
   "name": "mongrel2",
   "description": "Mongrel2 handler for node.",
-  "version": "0.0.1",
-  "homepage": "https://github.com/darkhelmet/node-mongrel2",
+  "version": "0.0.2",
+  "homepage": "https://github.com/jgeluk/node-mongrel2",
   "author": "Daniel Huckstep <darkhelmet@darkhelmetlive.com> (http://blog.darkhax.com/)",
   "directories": {
     "lib": "lib"
@@ -15,6 +15,6 @@
     "url": "git://github.com/darkhelmet/node-mongrel2.git"
   },
   "dependencies": {
-    "zeromq": ">= 0.3.0"
+    "zmq": ">= 2.1.0"
   }
 }

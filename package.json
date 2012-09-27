@@ -1,5 +1,6 @@
 {
   "name": "mongrel2",
+  "main": "./lib/mongrel2.js",
   "description": "Mongrel2 handler for node.",
   "version": "0.0.2",
   "homepage": "https://github.com/jgeluk/node-mongrel2",
